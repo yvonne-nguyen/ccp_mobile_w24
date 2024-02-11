@@ -196,6 +196,10 @@ img{
     background-color: #e0e0e0;
 }
 
+.skip-to-main{
+    display: none;
+}
+
 @media screen and (max-width: 414px) {
     .nav-links {
         display: block;
