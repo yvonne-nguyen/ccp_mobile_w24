@@ -1,6 +1,6 @@
 body{
     background-color: #faf6eb;
-    font-family: 'Inclusive Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
     padding: 4%;
     line-height: 190%;
 }
@@ -22,6 +22,7 @@ nav{
 
 .active {
     color: #c43232;
+    font-weight: 900;
 }
 
 a{
