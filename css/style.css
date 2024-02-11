@@ -197,7 +197,7 @@ img{
 }
 
 .skip-to-main{
-    display: none;
+    /* display: none; */
     color: #faf6eb;
 }
 
