@@ -197,8 +197,8 @@ img{
 }
 
 .skip-to-main{
-    display: none;
-    /* color: #faf6eb; */
+    /* display: none; */
+    color: #faf6eb;
 }
 
 @media screen and (max-width: 414px) {
